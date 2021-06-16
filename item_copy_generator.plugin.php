@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: item_copy_generator
- * Plugin URI: https://github.com/drajathasan/slims_item_copy_generator
+ * Plugin URI: https://github.com/drajathasan/slims_copy_item_generator
  * Description: Pembuat nomor salin atau copy pada nomor panggil di item bibliografi
  * Version: 1.0.0
  * Author: Drajat Hasan
